@@ -1,38 +1,5 @@
 # JavaScript Sorular Listesi (İleri Düzey)
 
-[Instagram](https://www.instagram.com/theavocoder) hesabımda, günlük olarak çoktan seçmeli Javascript soruları paylaşıyorum, ayrıca burada da paylaşacağım!
-
-Temelden ileri düzeye: Javascript'i ne kadar iyi bildiğinizi test edin, bilginizi biraz tazeleyin ya da mülakatanıza hazırlanın! :muscle: :rocket: Repoyu haftalık olarak yeni sorularla güncelliyorum. Son güncelleme: <a href=#20190817><b>17 Ağustos</b></a>
-
-Cevaplar, soruların altında gizlenmiştir. Görmek için sadece tıklayın. İyi şanslar :heart:
-
-Daha fazla soru eklendikçe eposta almak ister misiniz?<br />
-<a target="_blank" href="https://www.theavocoder.com/subscribe"><b>✨✉Eposta bildirimlerine abone olun✉✨</b></a>
-
-
-Mevcut dillerin listesi:
-
-- [🇸🇦 العربية](./ar-AR/README_AR.md)
-- [🇪🇬 اللغة العامية](./ar-EG/README_ar-EG.md)
-- [🇧🇦 Bosanski](./bs-BS/README-bs_BS.md)
-- [🇩🇪 Deutsch](./de-DE/README.md)
-- [🇬🇧 English](../README.md)
-- [🇪🇸 Español](./es-ES/README-ES.md)
-- [🇫🇷 Français](./fr-FR/README_fr-FR.md)
-- [🇮🇩 Indonesia](./id-ID/README.md)
-- [🇯🇵 日本語](./ja-JA/README-ja_JA.md)
-- [🇰🇷 한국어](./ko-KR/README-ko_KR.md)
-- [🇳🇱 Nederlands](./nl-NL/README.md)
-- [🇧🇷 Português Brasil](./pt-BR/README_pt_BR.md)
-- [🇷🇺 Русский](./ru-RU/README.md)
-- [🇹🇭 ไทย](./th-TH/README-th_TH.md)
-- [🇺🇦 Українська мова](./uk-UA/README.md)
-- [🇻🇳 Tiếng Việt](./vi-VI/README-vi.md)
-- [🇨🇳 简体中文](./zh-CN/README-zh_CN.md)
-- [🇹🇼 繁體中文](./zh-TW/README_zh-TW.md)
-
----
-
 ###### 1. Çıktısı nedir?
 
 ```javascript
