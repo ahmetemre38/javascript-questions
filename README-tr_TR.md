@@ -91,6 +91,8 @@ Arrow fonksiyonlarda, `this` anahtar kelimesi, sıradan fonksiyonların aksine, 
 
 Bu objede, `radius` değeri olmadığından `undefined` döndürüyor. 
 
+*** Bu arraw fonksiyonda this kaldırsak yine aynı hatayı alıyoruz.
+
 </p>
 </details>
 
@@ -99,8 +101,8 @@ Bu objede, `radius` değeri olmadığından `undefined` döndürüyor.
 ###### 4. Çıktısı Nedir?
 
 ```javascript
-+true;
-!"Lydia";
+console.log(+true);
+console.log(!"Lydia");
 ```
 
 - A: `1` and `false`
