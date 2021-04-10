@@ -253,6 +253,7 @@ console.log(freddie.colorChange("orange"));
 #### Cevap: D
 
 `colorChange` fonksiyonu statiktir. Statik methodlar, sadece oluşturuldukları kurucuda var olmak için tasarlanmıştır ve herhangi bir "children"a aktarılamaz. `freddie`, "child" olduğundan, fonksiyon aktarılmadı ve `freddie` üzerinden erişilebilir değil: `TypeError` hatası fırlatılır.
+*** colorChange fonksiyonu static yapılmazsa çıktı 'orange' olur.
 </p>
 </details>
 
@@ -429,7 +430,7 @@ function sum(a, b) {
   return a + b;
 }
 
-sum(1, "2");
+console.log(sum(1, "2"));
 ```
 
 - A: `NaN`
