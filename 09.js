@@ -1,5 +1,4 @@
-//use strict kullanimi sorulacak
-
+//"use strict" 
 
 let greeting;
 greetign = {}; // Yazım hatası!
