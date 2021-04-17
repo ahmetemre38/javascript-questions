@@ -1,4 +1,4 @@
-//"use strict" 
+"use strict" 
 
 let greeting;
 greetign = {}; // Yazım hatası!

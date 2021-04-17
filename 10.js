@@ -4,5 +4,7 @@ function bark() {
   
   bark.animal = "dog";
 
-  console.log(bark.animal);
+bark();
+
+console.log(bark.animal);
   
